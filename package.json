@@ -14,12 +14,12 @@
   "description": "userauth",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kranz912/UserAuth.git"
+    "url": "git+https://github.com/ArtNeroza/UserAuth.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kranz912/UserAuth/issues"
+    "url": "https://github.com/ArtNeroza/UserAuth/issues"
   },
-  "homepage": "https://github.com/kranz912/UserAuth#readme"
+  "homepage": "https://github.com/ArtNeroza/UserAuth#readme"
 }
