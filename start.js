@@ -8,7 +8,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.listen(80, '0.0.0.0', ()=>{
     console.log('server starting');
     dbclient.connect();
-    console.log('server started');
+    console.log('ssssssserver started');
 });
 
 app.post('/api/User',(request,response)=>{
